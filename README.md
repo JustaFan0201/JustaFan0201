@@ -9,7 +9,6 @@
 ---
 
 ## Skills
-Here are the technologies and tools I frequently use:
 
 <p align="left">
   <a href="https://skillicons.dev">
